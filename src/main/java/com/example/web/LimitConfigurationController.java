@@ -4,6 +4,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * 
+ * @author Sandhya
+ * Limit Service Application dispalys mimimum and maximum 
+ * values of the service
+ *
+ */
+
 @RestController
 public class LimitConfigurationController {
 	

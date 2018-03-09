@@ -1,5 +1,12 @@
 package com.example.web;
 
+/**
+ * 
+ * @author Sandhya
+ * Minimum and maximum values of Limit Configuration Service
+ *
+ */
+
 public class LimitConfiguration {
 	
 	private int maximum;
